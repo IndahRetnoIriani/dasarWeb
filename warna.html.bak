@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>
+			Pewarnaan
+		</title>
+	</head>
+	<body> bgcolor="aqua" <br>
+		
+		<font color="red">Font berwarna merah</font><br><br>
+		<font color="#FF0000">Font berwarna merah (menggunakan nilai heksa)</font>
+	</body>
+</html>
